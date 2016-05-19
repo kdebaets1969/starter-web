@@ -342,3 +342,8 @@ drwxr-xr-x+ 1 kdebaets Domain Users    0 Apr 21 12:55 d20160421-6780-joymuw
 -rwxr-xr-x  1 kdebaets Domain Users    0 Apr 21 12:55 vagrant20160421-6780-3fzwoc
 -rwxr-xr-x  1 kdebaets Domain Users   80 Apr 21 12:55 vagrant20160421-6780-3fzwoc2
 -rwxr-xr-x  1 kdebaets Domain Users 1972 Apr 21 12:55 vagrant20160421-6780-3fzwoc2.lock
+
+
+adding stuff
+
+even more stuff
