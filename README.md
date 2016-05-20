@@ -14,4 +14,6 @@ do
 
 you shouldn't, it's for examples
 
-adding line for rebase
+adding line for rebase,
+more changes from myfeaturebranch
+
